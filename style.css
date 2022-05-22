@@ -50,3 +50,39 @@ section {
 .landing_img img {
     width: 75%;
 }
+
+
+.second {
+    display: flex;
+
+}
+
+.second_sec {
+    width: 50%;
+}
+
+.second_sec img {
+    width: 70%;
+}
+
+.second_sec_t {
+    width: 50%;
+    margin: 50px;
+    padding: 130px 10px 5px 90px;
+
+}
+
+.second_sec_t button {
+
+    background-color: coral;
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px 20px;
+}
+
+.second_sec_t button a {
+
+    color: blueviolet;
+    text-decoration: none;
+}
