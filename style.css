@@ -1,4 +1,52 @@
-h1 {
-    color: darkorange;
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
 
+section {
+    display: flex;
+
+}
+
+.loanding {
+    background-color: white;
+
+}
+
+.loading_text {
+    width: 50%;
+    margin: 50px;
+    padding: 130px 10px 5px 90px;
+}
+
+.landing_text {
+    color: coral;
+
+}
+
+.blak_text {
+    color: black;
+    margin: 5px;
+}
+
+.loading_text button {
+    background-color: coral;
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px 20px;
+}
+
+.loading_text button a {
+    color: white;
+    text-decoration: none;
+}
+
+.landing_img {
+    width: 50%;
+}
+
+.landing_img img {
+    width: 75%;
 }
