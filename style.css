@@ -86,3 +86,39 @@ section {
     color: blueviolet;
     text-decoration: none;
 }
+
+section {
+    display: flex;
+
+}
+
+.proj {
+    text-align: center;
+
+
+}
+
+.colour {
+    color: coral;
+}
+
+.shadow {
+    box-shadow: 2px 2px 5px black;
+    border-radius: 5%;
+    width: 30%;
+    margin: 2.5%;
+    padding: 10px;
+
+}
+
+.shadow img {
+    width: 80%;
+    margin: 2.5%;
+    padding: 10px;
+}
+
+.shadow img img {
+    width: 90%;
+
+    padding: 10px;
+}
